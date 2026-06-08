@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  if (typeof window.RAMA_BOOKMARK_LOAD === "undefined") {
+  if (typeof window.HRYDZX_BOOKMARK_LOAD === "undefined") {
     console.log("%cAccess Denied - Bookmark Required", "color:#ff0000;font-size:15px;font-weight:bold");
     return;
   }
@@ -10,7 +10,7 @@
     key:      "https://raw.githubusercontent.com/hrydzxxx-create/aincrad-bypass/refs/heads/main/key.txt",
     redirect: "https://raw.githubusercontent.com/hrydzxxx-create/aincrad-bypass/refs/heads/main/hrydzx.txt",
     telegram: "https://raw.githubusercontent.com/hrydzxxx-create/aincrad-bypass/refs/heads/main/button.txt",
-    update:   "https://rm.rama-modz.workers.dev/",
+    update:   "https://rm.hrydzx-modz.workers.dev/",
     getkey:   "https://aincradmods.com/getkey?token=7e6d3dc2a446411c870605827719f7d2"
   };
 

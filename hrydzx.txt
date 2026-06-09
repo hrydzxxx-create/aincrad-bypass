@@ -1,2 +1,1 @@
-"Aincrad-Bypass", "https://aincradmods.com/getkey?token=7e6d3dc2a446411c870605827719f7d2"
-"Hunter-Bypass", "https://huntermods.in/activekey.php?active_token=PNvWZMtpBYIuiXxGz6Rh9aco"
+https://aincradmods.com/getkey?token=7e6d3dc2a446411c870605827719f7d2
